@@ -16,4 +16,14 @@ MonoBehaviour:
   m_GuidHigh: 4181186424715098244
   m_DataStore:
     m_Storage: []
-  m_Images: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5305707222827066551
+      m_GuidHigh: 7091691109186719131
+    m_SerializedTextureGuid:
+      m_GuidLow: 13032283367070025539
+      m_GuidHigh: 11101585086036707179
+    m_Size: {x: 0.1, y: 0.0815}
+    m_SpecifySize: 0
+    m_Name: monetbridgeoverapond
+    m_Texture: {fileID: 2800000, guid: a270c743f8acb4db6b07fe28d1c0109a, type: 3}
