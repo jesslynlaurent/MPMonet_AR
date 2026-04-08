@@ -27,3 +27,13 @@ MonoBehaviour:
     m_SpecifySize: 0
     m_Name: monetbridgeoverapond
     m_Texture: {fileID: 2800000, guid: a270c743f8acb4db6b07fe28d1c0109a, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5471829709403976356
+      m_GuidHigh: 6765909142327532203
+    m_SerializedTextureGuid:
+      m_GuidLow: 16481975435897380597
+      m_GuidHigh: 2879179807135693803
+    m_Size: {x: 0.21, y: 0.28}
+    m_SpecifySize: 1
+    m_Name: roominformation_marker
+    m_Texture: {fileID: 0}
