@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class WaterScroll : MonoBehaviour
+public class Water : MonoBehaviour
 {
     public Renderer rend;
     public float speedX = 0.03f;
