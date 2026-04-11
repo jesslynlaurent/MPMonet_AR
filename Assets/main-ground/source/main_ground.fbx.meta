@@ -3,7 +3,202 @@ guid: f81604398f2f84c4eae00c860a51beb1
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: G_standard
+    second: {fileID: 2100000, guid: a45c4c37a405c499eb5ce071947f6c3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #111
+    second: {fileID: 2100000, guid: 96792874de66644e8a22ad95a6c9af76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #121
+    second: {fileID: 2100000, guid: 8d5d98d314e5e41b497b3b34d64cb5f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #130
+    second: {fileID: 2100000, guid: 2f2687b13f9224be8b70ad0c7189757d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_Bush_Trunk
+    second: {fileID: 2100000, guid: cbc48e555faac42a78180f62f923f24e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_Leaves_Pine
+    second: {fileID: 2100000, guid: 25e0ec645e0f04a3d96feaf4faac1b12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mi_Trees_Pines
+    second: {fileID: 2100000, guid: 02aa194f9aa084c819656f9358940df8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gg_standard
+    second: {fileID: 2100000, guid: 2e83b3778eb0c4b048d58d6c84582286, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tree001
+    second: {fileID: 2100000, guid: 27337451a20db4f2e8e9dc97ecaa9d3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tree002
+    second: {fileID: 2100000, guid: 9eb256ca42c3241ba95c59f25e220eeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tree003
+    second: {fileID: 2100000, guid: 634ed05fe1a3048dca5713d5570cf474, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tree004
+    second: {fileID: 2100000, guid: cdbc5b4f8c4f5469ea83197fe032a90e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tree005
+    second: {fileID: 2100000, guid: bf7c2200c05184b1c895a69002c897ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tree1
+    second: {fileID: 2100000, guid: 27251e1cd39d7442db3b0f3704acb49d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tree2
+    second: {fileID: 2100000, guid: 943e05fdc32a04e3398ac203e3c630be, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: G
+    second: {fileID: 2800000, guid: a9afd40c588a64722a5069237754e8af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GG
+    second: {fileID: 2800000, guid: 35afeaf8d4e1f4f01afaf94f5fa46b0b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tree_base
+    second: {fileID: 2800000, guid: f6c71832adb314323a4ead1aa1e3f1ed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bb1Tree_alpha
+    second: {fileID: 2800000, guid: 967047f2ada2447eba88334d78ecbd70, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bb1Tree_base
+    second: {fileID: 2800000, guid: e7635fae4b3274bd09711c19441a0ea2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bb2Tree_alpha
+    second: {fileID: 2800000, guid: 79285be99a1984b9f9391c704b2f53da, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bb2Tree_base
+    second: {fileID: 2800000, guid: 0ed0905d8ef854d35b75491608ed19c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bb3Tree_alpha
+    second: {fileID: 2800000, guid: f2aa9283b34264d7aa871e08ef095bb4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bb3Tree_base
+    second: {fileID: 2800000, guid: db9e0ce78a30f4ddb922efbf202d9fae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tree001_alpha
+    second: {fileID: 2800000, guid: 0e7bc4952913040288bd22ba6209868d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tree001_base
+    second: {fileID: 2800000, guid: b2c246b9ce164484f86c6df2a338909b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tree003_alpha
+    second: {fileID: 2800000, guid: fd7431e8f3d044e6bbd961cffde9b8e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tree003_base
+    second: {fileID: 2800000, guid: 8505e79d5736d4cb590ca2dac71cbbcf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tree004_alpha
+    second: {fileID: 2800000, guid: 7e66677615e594b5cb04b1161d1aa13c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tree004_base
+    second: {fileID: 2800000, guid: 7bcbd4cebe71a40978734d953ff838d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tree005_alpha
+    second: {fileID: 2800000, guid: 1e56972f5e0f44b06a717c1bcbdfa8c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tree005_base
+    second: {fileID: 2800000, guid: 8cd47b94ddac74abf87b461743e295a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tree02_alpha
+    second: {fileID: 2800000, guid: 5878083049156479fa15ee1839d4ac03, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tree02_base
+    second: {fileID: 2800000, guid: 5a016ff8a704d4c1db92a174e93fddd0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tree2_alpha
+    second: {fileID: 2800000, guid: 60da321dba6654333a2cc012cb0a0ec4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tree2_base
+    second: {fileID: 2800000, guid: 247f0a0789abf430cb7ba2676182757c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tree_alpha
+    second: {fileID: 2800000, guid: a42be6f034eb9433fb5c3778921c739b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: trees_alpha
+    second: {fileID: 2800000, guid: 981253d8bff7247949443a7f173db5d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: trees_base
+    second: {fileID: 2800000, guid: 0b14939c7ae7c46c68b1fa6c91239058, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
