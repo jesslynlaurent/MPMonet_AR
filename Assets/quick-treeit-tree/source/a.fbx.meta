@@ -3,7 +3,17 @@ guid: db9eb4519c6884716977380cac48cd35
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bark02
+    second: {fileID: 2100000, guid: a0d1ae4ff7fbc48bcb54dcebfd6d9960, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: texturescom_branches0018_1_alphamasked_s
+    second: {fileID: 2100000, guid: d565f4ddf57864b08aa2c4285aad39ee, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
