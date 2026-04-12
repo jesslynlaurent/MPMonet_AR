@@ -3,7 +3,17 @@ guid: eeae17bb07849467da3b96b27a0f8b5a
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oceanShader1
+    second: {fileID: 2100000, guid: a2cb78b3edb7044219a97ec764ca91e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: openPBR_shader1
+    second: {fileID: 2100000, guid: 167f28d27ac054b069f9fa56689c4459, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
