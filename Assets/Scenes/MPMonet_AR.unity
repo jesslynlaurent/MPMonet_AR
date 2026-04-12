@@ -1050,7 +1050,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4bcaf502ecd7e486fb72e6f84f3b68c4, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 7.08
+      value: 3.58
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4bcaf502ecd7e486fb72e6f84f3b68c4, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1793,6 +1793,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1995965548}
     m_Modifications:
+    - target: {fileID: 3445423435907454730, guid: 0e2ab686d0b664405b70c29b32faaaf2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.11
+      objectReference: {fileID: 0}
     - target: {fileID: 7225226808976214732, guid: 0e2ab686d0b664405b70c29b32faaaf2, type: 3}
       propertyPath: m_Name
       value: bridge
