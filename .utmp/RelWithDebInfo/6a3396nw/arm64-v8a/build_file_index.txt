@@ -1,0 +1,2 @@
+/Users/j3-laurent/Library/CloudStorage/OneDrive-UWEBristol/GitHub/MPMonet_AR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/CMakeLists.txt
+/Users/j3-laurent/Library/CloudStorage/OneDrive-UWEBristol/GitHub/MPMonet_AR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/CMakeLists.txt
